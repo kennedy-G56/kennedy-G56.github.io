@@ -6,7 +6,6 @@
 -Data processing & validation</P><br>
 <p>This is an example of a functioning<strong>HTML</strong>FORM:</p><br>
 
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
