@@ -6,7 +6,7 @@
 -Data processing & validation</P><br>
 <p>This is an example of a functioning<strong>HTML</strong>FORM:</p><br>
 
-<html lang="en">
+cy<html lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -132,7 +132,7 @@
             <label for="checkbox">I agree to the terms and conditions</label><br><br>
             
             <input type="checkbox" name="" id="">
-            <label for="checkbox">I agree to the privacy policy</label>
+            <label for="checkbox">I agree to the privacy poli</label>
         </fieldset><br>
         <button type="Register" value="register">Register</button>
         <button type="clear form" value="clear_form">Clear Form</button>
